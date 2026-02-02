@@ -1,16 +1,14 @@
 # BCV Exchange Scraper 
 
 ## Table of Contents
-- [BCV Exchange Scraper](#bcv-exchange-scraper)
-  - [Table of Contents](#table-of-contents)
-  - [About ](#about-)
-  - [Getting Started ](#getting-started-)
-  - [Requirements](#requirements)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Docker](#docker)
-  - [Deployment ](#deployment-)
-  - [Contributing](#contributing)
+- [About ](#about-)
+- [Getting Started ](#getting-started-)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Docker](#docker)
+- [Deployment ](#deployment-)
+- [Contributing](#contributing)
 
 
 ## About <a name = "about"></a>
@@ -55,4 +53,5 @@ If you have the means, I recommend [crawlab](https://github.com/crawlab-team/cra
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request.
+
 I hope this helps! Let me know if you have any questions.
